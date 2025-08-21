@@ -1,0 +1,51 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Build outputs
+dist/
+build/
+
+# Local env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Coverage
+coverage/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.swn
+*.swm
+
+# IDE / Tooling
+.vscode/
+.idea/
+*.iml
+
+# Optional caches
+.cache/
+.parcel-cache/
+.next/
+.nuxt/
+out/
+.storybook-out/
+
+# React Native / Expo
+.expo/
+.expo-shared/
+
+# Misc
+*.log
